@@ -19,7 +19,6 @@ Load jQuery(1.7+) and include horizontalCalendar plugin files
 <!-- Include js plugin -->
 
 <script src="js/jquery.ui.touch-punch.min.js"></script>
-<script src="js/moment_langs.min.js"></script>
 <script src="js/slideClaendar.js"></script>
 ```
 # 2.Set up your HTML
