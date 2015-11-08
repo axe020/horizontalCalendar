@@ -10,7 +10,7 @@ Touch enabled jQuery plugin that lets you create Horizontal calendar slider.
 
 
 ### 1.Getting Started
-Load jQuery(1.7+) and include Horizontal calendar slider plugin files
+Load jQuery(1.7+) and include horizontalCalendar plugin files
 
 ```html
 <!-- Basic stylesheet -->
@@ -28,7 +28,7 @@ Load jQuery(1.7+) and include Horizontal calendar slider plugin files
     <div id="cal1"></div>
 ```
 # 3.Call the plugin
-Now call the Horizontal calendar slider initializer function and your calendar is ready.
+Now call the horizontalCalendar initializer function and your calendar is ready.
 ```html
 $("#cal1").slideCalendar();
 ```
@@ -41,6 +41,6 @@ The MIT License (MIT)
 
 # Thanks
 
-[jQuery-Range-Calendar](https://github.com/webangelo/jQuery-Range-Calendar) I got inspired and built Horizontal calendar slider based on his plugin.
+[jQuery-Range-Calendar](https://github.com/webangelo/jQuery-Range-Calendar) I got inspired and built horizontalCalendar based on his plugin.
 
 
