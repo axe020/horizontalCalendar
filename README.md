@@ -3,10 +3,10 @@
 Touch enabled jQuery plugin that lets you create Horizontal calendar slider.
 
 #Features:
-*Responsive 
-*Touch Events
-*Mouse Slide Events
-*Fully Customizable
+* Responsive 
+* Touch Events
+* Mouse Slide Events
+* Fully Customizable
 
 
 ### 1.Getting Started
